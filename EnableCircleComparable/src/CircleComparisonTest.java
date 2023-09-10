@@ -32,7 +32,7 @@
 
 public class CircleComparisonTest {
     
-    /** Begin program execution here */
+
     public static void main(String[] args) {
         // Make three example circles
         SimpleCircle firstCircle = new SimpleCircle(5, "red", true);
